@@ -11,6 +11,7 @@ public class LogMonitorApplicationTests {
 
 	@Test
 	public void contextLoads() {
+		LogMonitorApplication.main(new String[] {});
 	}
 
 }
